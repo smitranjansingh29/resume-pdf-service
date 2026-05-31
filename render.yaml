@@ -1,0 +1,4 @@
+services:
+  - type: web
+    name: resume-pdf-service
+    runtime: docker
